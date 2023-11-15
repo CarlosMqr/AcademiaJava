@@ -11,7 +11,7 @@ public class EjemploArrayListMetodos {
 
         List<Alumno> al = new ArrayList<>();
         al.add(new Alumno("Carlos",8));
-        al.add(0,new Alumno("jazmin",9));//indicamos que Jazmin con la posición 1 pase a la posición 0
+        al.add(0,new Alumno("Monse",9));//indicamos que Jazmin con la posición 1 pase a la posición 0
         al.add(new Alumno("Adriana",7));
         al.add(new Alumno("Jessy",6));
         al.add(new Alumno("Daniela",3));

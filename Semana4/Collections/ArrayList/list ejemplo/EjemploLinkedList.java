@@ -9,7 +9,7 @@ public class EjemploLinkedList {
 
         LinkedList<Alumno> enlazada = new LinkedList<>();
         enlazada.add(new Alumno("Carlos",8));
-        enlazada.add(new Alumno("jazmin",9));
+        enlazada.add(new Alumno("Monse",9));
         enlazada.add(new Alumno("Adriana",7));
         enlazada.add(new Alumno("Jessy",6));
         enlazada.add(new Alumno("Daniela",3));
